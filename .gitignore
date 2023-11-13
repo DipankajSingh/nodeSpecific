@@ -11,3 +11,5 @@
 .env.test.example
 .env.production.example
 package-lock.json
+ROUND-1.pdf
+/output
